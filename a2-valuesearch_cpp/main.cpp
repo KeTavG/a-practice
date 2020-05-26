@@ -140,5 +140,6 @@ int main()
     std::cout << "Maximum value = " << getMax(arr) << std::endl;
     std::cout << "Mode = " << getMode(arr) << std::endl;
     std::cout << "Average value = " << getAverage(arr) << std::endl;
+    std::cin.get();
     return 0;
 }
